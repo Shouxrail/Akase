@@ -1,0 +1,2 @@
+# Akase
+Aplikasi Kasir Sederhana
